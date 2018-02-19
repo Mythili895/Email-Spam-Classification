@@ -20,5 +20,6 @@ The class matrix is an np array of the form :
 
 ## Model Building
 
-Have used Sklearn library's GaussianNB function to build the model
+Have used Sklearn library's GaussianNB function to build the model.
+Used sklearn metric's accuracy_score to find the accuracy of the classifier. 
 
